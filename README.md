@@ -1,7 +1,7 @@
 # photo-reformat-project
-<br>
+
 ## A small Java program that converts image files to .PNG and resizes them based on chosen scale through a GUI.
-<br>
+
 ### Motivation for this project
 
 I currently maintain an online store through eBay and have sold thousands of items over the past few years. Providing great photos of your items is one of the most important things you can do as a seller. A couple of years ago I started noticing compression issues with my photos once they were pulled from the cloud and uploaded to eBay. My listings were plagued with grainy photos that appeared far worse than they should have. I found that converting the images from .JPEG to .PNG alleviated this issue. However, doing so also greatly increased the size of the image files. I found myself using third-party apps for image conversion and manually resizing each photo. Needless to say, this was a major inconvenience and took time away from other important tasks required for listing items. This project started as an attempt to solve this issue with a single Java program.
